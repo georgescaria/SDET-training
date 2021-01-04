@@ -28,7 +28,7 @@ public class StepDefinition {
 		
 	    //throw new PendingException();
 	}
-
+/*
 	
 	@When("^Enter search string as \"([^\"]*)\"$")
 	public void enter_search_string_as(String arg1) throws Throwable {
@@ -43,5 +43,5 @@ public class StepDefinition {
 	   // throw new PendingException();
 	}
 
-
+*/
 }
